@@ -1,9 +1,0 @@
-{
-  "docs": {
-    "Introducao": ["intro"],
-    "Goniar": ["goniar/anoehin", "goniar/skah"]
-  },
-  "docs-other": {
-    "First Category": ["doc4", "doc5"]
-  }
-}
